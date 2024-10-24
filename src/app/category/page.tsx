@@ -18,7 +18,7 @@ function Category() {
               <a className="block relative h-48 border-2 rounded overflow-hidden">
                 <Image
                   className="object-cover object-center w-full h-full block"
-                  src="/kids.jpg"
+                  src="/kids.png"
                   alt="iamge"
                   width={400}
                   height={300}
@@ -35,7 +35,7 @@ function Category() {
               <a className="block relative h-48  border-2 rounded overflow-hidden">
                 <Image
                   className="object-cover object-center w-full h-full block"
-                  src="/kids1.jpg"
+                  src="/kids1.png"
                   alt="image"
                   width={400}
                   height={300}
@@ -110,7 +110,7 @@ function Category() {
               <a className="block relative h-48  border-2 rounded overflow-hidden">
                 <Image
                   className="object-cover object-center w-full h-full block"
-                  src="/acedimc1.jpg"
+                  src="/acedemic1.jpg"
                   alt="image"
                   width={400}
                   height={300}
@@ -127,7 +127,7 @@ function Category() {
               <a className="block relative h-48 border-2 rounded overflow-hidden">
                 <Image
                   className="object-cover object-center w-full h-full block"
-                  src="/acedimc2.jpeg"
+                  src="/acedemic2.jpeg"
                   alt="iamge"
                   width={400}
                   height={300}
@@ -145,7 +145,7 @@ function Category() {
               <a className="block relative h-48 border-2 rounded overflow-hidden">
                 <Image
                   className="object-cover object-center w-full h-full block"
-                  src="/acedimic3.jpeg"
+                  src="/acedemic3.jpeg"
                   alt="image"
                   width={400}
                   height={300}
